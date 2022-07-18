@@ -1,0 +1,17 @@
+#header {
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+
+#header p {
+    color: brown;
+    font-size: 35px;
+
+}
+
+div {
+
+    width: 100%;
+    background-color: gray;
+}
